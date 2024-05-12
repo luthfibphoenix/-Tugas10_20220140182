@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    top: 0;
+    right: 0;
+}
+body  {
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+.box{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(47, 80, 212);
+    color: rgb(56, 45, 117);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+section{
+    text-align: center;
+    align-items: center;
+    border: solid #2880b9;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.btn{
+    justify-content: center;
+    text-align: center;
+}
+
+.pendaftaran, a{
+    background-color: #2880b9;
+    color: white;
+    text-decoration-color: aqua;
+    width: 100px;
+    height: 40px;
+    border: thistle;
+    border-radius: 5px;
+}

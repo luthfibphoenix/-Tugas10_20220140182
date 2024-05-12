@@ -1,0 +1,10 @@
+.back{
+    margin-top: 5px;
+    background-color: rgb(50, 104, 205);
+    color: aquamarine;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: tomato;
+    border-radius: 5px;
+}
